@@ -1,0 +1,23 @@
+<!doctype html>
+<meta charset="utf-8">
+<html>
+<head>
+<title> </title>
+</head>
+<body>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+Baymax <b> Baymax <b>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+Baymax <b> Baymax <b>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+<h1> Baymax </h1>
+<h2> Baymax </h2>
+<h3> Baymax </h3>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+Baymax <b> Baymax <b> <i> Baymax </i>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+Baymax <b> Baymax <b>
+<img src="C:\Users\user\Desktop\учня папка\Папка учня\Baymax.gif" alt="Baymax">
+<a href="https://www.instagram/com" title="my instagram"> instagram wowww </a>
+</body>
+</html>
